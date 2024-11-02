@@ -2,4 +2,7 @@
 
 require_once __DIR__ . "/vendor/autoload.php";
 
-echo 'hello world';
+use vinic\portifolio2\Router\Start;
+
+$s = new Start;
+
