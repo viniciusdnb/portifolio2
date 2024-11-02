@@ -1,0 +1,17 @@
+{
+    "name": "vinic/portifolio2",
+    "description": "meu portifolio",
+    "authors": [
+        {
+            "name": "Vinicius Henrique costa da silva",
+            "email": "71468843+viniciusdnb@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "vinic\\portifolio2\\":"src",
+            "vinic\\public\\":"public"
+        }
+    },
+    "require": {}
+}
